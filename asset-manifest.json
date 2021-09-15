@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nwitter/static/css/main.1ad4efb2.chunk.css",
-    "main.js": "/nwitter/static/js/main.0cc0d49d.chunk.js",
-    "main.js.map": "/nwitter/static/js/main.0cc0d49d.chunk.js.map",
-    "runtime-main.js": "/nwitter/static/js/runtime-main.222ae764.js",
-    "runtime-main.js.map": "/nwitter/static/js/runtime-main.222ae764.js.map",
-    "static/js/2.30fcab9e.chunk.js": "/nwitter/static/js/2.30fcab9e.chunk.js",
-    "static/js/2.30fcab9e.chunk.js.map": "/nwitter/static/js/2.30fcab9e.chunk.js.map",
-    "index.html": "/nwitter/index.html",
-    "precache-manifest.9776b74c2b0e331e0d37ffc087d44eb5.js": "/nwitter/precache-manifest.9776b74c2b0e331e0d37ffc087d44eb5.js",
-    "service-worker.js": "/nwitter/service-worker.js",
-    "static/css/main.1ad4efb2.chunk.css.map": "/nwitter/static/css/main.1ad4efb2.chunk.css.map",
-    "static/js/2.30fcab9e.chunk.js.LICENSE.txt": "/nwitter/static/js/2.30fcab9e.chunk.js.LICENSE.txt"
+    "main.css": "/nwitter.git/static/css/main.1ad4efb2.chunk.css",
+    "main.js": "/nwitter.git/static/js/main.0cc0d49d.chunk.js",
+    "main.js.map": "/nwitter.git/static/js/main.0cc0d49d.chunk.js.map",
+    "runtime-main.js": "/nwitter.git/static/js/runtime-main.2ba7d70b.js",
+    "runtime-main.js.map": "/nwitter.git/static/js/runtime-main.2ba7d70b.js.map",
+    "static/js/2.55c5d27b.chunk.js": "/nwitter.git/static/js/2.55c5d27b.chunk.js",
+    "static/js/2.55c5d27b.chunk.js.map": "/nwitter.git/static/js/2.55c5d27b.chunk.js.map",
+    "index.html": "/nwitter.git/index.html",
+    "precache-manifest.9dd6050ddfeac8d6f5e0d6e19e7e4138.js": "/nwitter.git/precache-manifest.9dd6050ddfeac8d6f5e0d6e19e7e4138.js",
+    "service-worker.js": "/nwitter.git/service-worker.js",
+    "static/css/main.1ad4efb2.chunk.css.map": "/nwitter.git/static/css/main.1ad4efb2.chunk.css.map",
+    "static/js/2.55c5d27b.chunk.js.LICENSE.txt": "/nwitter.git/static/js/2.55c5d27b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.222ae764.js",
-    "static/js/2.30fcab9e.chunk.js",
+    "static/js/runtime-main.2ba7d70b.js",
+    "static/js/2.55c5d27b.chunk.js",
     "static/css/main.1ad4efb2.chunk.css",
     "static/js/main.0cc0d49d.chunk.js"
   ]
